@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  margin-top: 200px;
+}
+
+h2 {
+  font-weight: 300;
+}
+input {
+  width: 70%;
+  border: none;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+
+input:focus {
+  outline: none;
+}
+h3 {
+  font-weight: 500;
+}
